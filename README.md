@@ -3,7 +3,7 @@
 SlideVista is a modern and responsive sidebar navigation menu built using only HTML and CSS.  
 No JavaScript is used — all interactions are handled via CSS and checkbox toggling.
 
-#Features
+# Features
 
 - Sliding sidebar menu (off-canvas)
 - Modern transparent UI design
@@ -14,7 +14,7 @@ No JavaScript is used — all interactions are handled via CSS and checkbox togg
 - No JavaScript required
 
 
-#Technologies Used
+# Technologies Used
 
 - HTML5
 - CSS3
